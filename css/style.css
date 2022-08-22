@@ -51,7 +51,7 @@ body{
  }
 #header .fishing_tab:before{
   display:inline-block;
-  width:100px;
+  width:50px;
   height:2px;
   background:#FF9900;
   vertical-align:middle;
@@ -60,7 +60,7 @@ body{
   }
 #header .fishing_tab:after{
   display:inline-block;
-  width:100px;
+  width:50px;
   height:2px;
   background:#FF9900;
   vertical-align:middle;
