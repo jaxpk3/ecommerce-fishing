@@ -248,13 +248,13 @@ border-bottom:2px solid #fac122;
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(../img/2.jpg); 
+  background-image: url(../img/fish/f2.jpg); 
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url(../img/3.jpg);
+  background-image: url(../img/fish/f1.jpg);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(../img/4.jpg);
+  background-image: url(../img/fish/f3.jpg);
 }
 
 /********************************/
